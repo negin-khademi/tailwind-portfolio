@@ -5,7 +5,7 @@ import heroImg from '../assets/hero.svg';
 const Hero = () => {
   return (
     <div className="bg-blue-100 py-24">
-      <div className="mx-auto max-w-7xl px-8 grid md:grid-cols-2 items-center gap-8">
+      <div className="align-element grid md:grid-cols-2 items-center gap-8">
         <article>
           <h1 className="text-7xl font-bold tracking-wide">I'm Negin</h1>
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">Front-End Developer</p>
