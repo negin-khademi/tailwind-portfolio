@@ -11,13 +11,13 @@ const Hero = () => {
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">Front-End Developer</p>
           <p className="mt-2 text-lg capitalize text-slate-700 tracking-wide">turning ideas into intractive reality</p>
           <div className="flex gap-x-4 mt-4">
-            <a href="#">
+            <a href="https://github.com/negin-khademi">
               <FaGithubSquare className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
-            <a href="#">
+            <a href="https://www.linkedin.com/in/negin-khademi-959844161/">
               <FaLinkedin className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
-            <a href="#">
+            <a href="https://t.me/neginkhademi">
               <FaTelegram className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
           </div>
